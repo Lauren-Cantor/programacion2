@@ -9,7 +9,7 @@ int main (){
 	printf ("el radio del cilindro es: ");
 	scanf ("%d", &radio);
 	
-		printf ("la altura del cilindro es: ");
+	printf ("la altura del cilindro es: ");
 	scanf ("%d", &altura);
 	
 	area= 2*3.1416*(radio*altura)+2*3.1416*pow(radio,2);

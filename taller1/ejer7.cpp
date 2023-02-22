@@ -11,5 +11,6 @@ int main (){
 	
 	printf ("la velocidad alcanzada en %d segundos es: %dkm/h",tiempoX,x);
 	
+	return 0;
 	
 }
